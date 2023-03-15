@@ -1,5 +1,53 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>KS Construção Civil e Serviços Gerais</title>
-  </head>
+<head>
+	<title>KS - Construção Civil e Serviços Gerais</title>
+</head>
+<body>
+	<header>
+		<h1>KS - Construção Civil e Serviços Gerais</h1>
+	</header>
+	
+	<nav>
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Sobre nós</a></li>
+			<li><a href="#">Serviços</a></li>
+			<li><a href="#">Contato</a></li>
+		</ul>
+	</nav>
+	
+	<main>
+		<h2>Bem-vindo à KS Reformas</h2>
+		<p>Nós somos uma empresa de construção civil e serviços gerais comprometida em fornecer soluções de qualidade para nossos clientes.</p>
+		
+		<h3>Nossos serviços</h3>
+		<ul>
+			<li>Eletricista</li>
+			<li>Encanador</li>
+			<li>Gesseiro</li>
+			<li>Pedreiro</li>
+			<li>Pintura</li>
+      <li>Azulejista</li>
+      <li>Telhadista</li>
+			<li>Chaveiro em Geral</li>
+      <li>Cofre (abertura)</li>
+      <li>Serviços eletrônicos</li>
+		</ul>
+		
+		<h3>Contato</h3>
+		<p>Entre em contato conosco para obter mais informações sobre nossos serviços:</p>
+		<ul>
+			<li>Telefone: (11) 99739-6081</li>
+      <li>Telefone: (11) 98577-3684</li>
+			<li>E-mail: ksreformas@outlook.com.br</li>
+			<li>Endereço: Rua Abolição, 168 - Bela Vista, São Paulo/ SP</li>
+      <li>CEP: 01319-010</li>
+		</ul>
+	</main>
+	
+	<footer>
+		<p>&copy; 2023 KS - Construção Civil e Serviços Gerais</p>
+	</footer>
+</body>
 </html>
